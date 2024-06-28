@@ -11,7 +11,7 @@
 
 ### About me:
 
-I've been learning programming since december 2023, but I'm interested in programming since I was a teenager. I used to customize my blog and liked to digging into the code and analizing the code on the other pages to understand how it works.
+I've been learning programming since December 2023, but I've been interested in programming since I was a teenager. I used to customize my blog and liked digging into the code and analizing the code on the other pages to understand how it works.
 In general, I've been working as a Purchasing Director in the mid-sized Optical store chain for 8 years. While I work here, I always study. It's my habit. So I'm sure I'll continue to learn new things and I think it's nesessary feature for programmer.
 
 ### Skills:
