@@ -40,27 +40,31 @@ Complete the solution so that it returns true if the first argument(string) pass
 
 Examples:
 
+```javascript
 solution("abc", "bc"); // returns true
 solution("abc", "d"); // returns false
+```
 
 My Solution :
 
+```javascript
 function solution(str, ending) {
-let end1Arg = str.length;
-let end2Arg = ending.length;
-let checkEnd = str.substring(end1Arg - end2Arg);
-return checkEnd === ending;
+  let end1Arg = str.length;
+  let end2Arg = ending.length;
+  let checkEnd = str.substring(end1Arg - end2Arg);
+  return checkEnd === ending;
 }
+```
 
 ### Pet-projects:
 
 1. Tic-Tac-Toe - HTML, JavaScript, ReactJS, Vite, GIT
 
-- [https://zagorky.github.io/tic_tac_toe/](https://zagorky.github.io/tic_tac_toe/)
+   - [https://zagorky.github.io/tic_tac_toe/](https://zagorky.github.io/tic_tac_toe/)
 
 2. Anime Randomizer - HTML, SASS, TypeScript, ReactJS, React-Query, React-Router-DOM, Vite, Axios, NodeJS, GIT
 
-- [Dev Brunch to show code](https://github.com/zagorky/JS_TS_REACT_Project/tree/dev/)
+   - [Dev Brunch to show code](https://github.com/zagorky/JS_TS_REACT_Project/tree/dev/)
 
 ### Courses:
 
