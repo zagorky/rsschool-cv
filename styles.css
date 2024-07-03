@@ -1,34 +1,28 @@
 body {
   font-family: "Open Sans";
-  background-color: rgba(245, 245, 220, 0.393);
   margin: 25px;
   max-width: 1280px;
-  color: rgb(43, 70, 71);
+  color: #2b4647;
 }
 .contact__container {
-  align-items: center;
-
-  img {
-    width: 20%;
-  }
+  color: #2b4647;
+}
+img {
+  width: 20%;
 }
 a {
   text-decoration: none;
   color: black;
   font-weight: 600;
   cursor: pointer;
-  &:hover {
-    color: rgb(140, 86, 70);
-  }
 }
-
+a:hover {
+  color: #8c5646;
+}
 .container {
-  border-top: 1px solid rgba(128, 128, 128, 0.396);
+  border-top: 1px solid #808080;
 }
 
 footer {
-  border-top: 1px solid grey;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
+  border-top: 1px solid #808080;
 }
