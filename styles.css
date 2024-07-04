@@ -62,3 +62,15 @@ footer ul {
 footer svg {
   width: 100px;
 }
+
+@media screen and (min-width: 250px) and (max-width: 600px) {
+  nav ul,
+  footer ul {
+    font-size: 20px;
+    display: list-item;
+    text-align: center;
+  }
+  .img img {
+    display: none;
+  }
+}
