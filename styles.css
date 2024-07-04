@@ -2,13 +2,11 @@
   scroll-behavior: smooth;
 }
 body {
-  display: flex;
   font-family: "Open Sans";
   color: #2b4647;
 }
 .wrapper {
   margin: auto;
-  display: grid;
   max-width: 1140px;
   justify-content: space-around;
   padding: 25px;
