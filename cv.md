@@ -58,9 +58,9 @@ function solution(str, ending) {
 
 ### Pet-projects:
 
-1. Tic-Tac-Toe - HTML, JavaScript, ReactJS, Vite, GIT
+1. Audio player - HTML, JavaScript, CSS
 
-   - [https://zagorky.github.io/tic_tac_toe/](https://zagorky.github.io/tic_tac_toe/)
+   - [https://github.com/zagorky/Audio-player](https://zagorky.github.io/Audio-player/audio-player/)
 
 2. Anime Randomizer - HTML, SASS, TypeScript, ReactJS, React-Query, React-Router-DOM, Vite, Axios, NodeJS, GIT
 
@@ -72,6 +72,7 @@ function solution(str, ending) {
 2. JavaScript Manual on learnjavascript.ru
 3. JavaScript - Basic Course + JavaScript - Professional Course in [NNGU Lobachevsky University](https://fpk.unn.ru/kursy-programmirovaniya/kursy-programmirovaniya-na-javascript/)
 4. JavaScript Bacics on Stepik
+5. RS School Stage0
 
 ### Languages:
 
